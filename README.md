@@ -1,5 +1,7 @@
 # NgComponentScreenListing
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mateothegreat/ng-component-screen-listing.svg)](https://greenkeeper.io/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
 
 ## Development server
